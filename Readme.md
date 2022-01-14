@@ -1,3 +1,5 @@
+! DANS LE FICHIER .env CHANGER LE MAIL ET LE MOT DE PASSE PAR UNE ADRESSE MAIL VALIDE !
+
 Commandes à réaliser pour le bon fonctionnement de l'API :
 
 
